@@ -104,13 +104,11 @@ We are preparing the public release. Stars and watches let us notify you when ea
 If V2V-Zero or Simple-V2V Bench helps your research, please cite:
 
 ```bibtex
-@article{liu2026v2vzero,
-  title   = {Beyond Text Prompts: Visual-to-Visual Generation as A Unified Paradigm},
-  author  = {Liu, Yaofang and Cui, Kangning and Chu, Meng and Li, Zhaoqing and
-             Zhang, Suiyun and Morel, Jean-Michel and Cun, Xiaodong and
-             Che, Haoxuan and Liu, Rui and Chan, Raymond H.},
-  journal = {arXiv preprint arXiv:2605.12271},
-  year    = {2026}
+@article{liu2026beyond,
+  title={Beyond Text Prompts: Visual-to-Visual Generation as A Unified Paradigm},
+  author={Liu, Yaofang and Cui, Kangning and Chu, Meng and Li, Zhaoqing and Zhang, Suiyun and Morel, Jean-Michel and Cun, Xiaodong and Che, Haoxuan and Liu, Rui and Chan, Raymond H},
+  journal={arXiv preprint arXiv:2605.12271},
+  year={2026}
 }
 ```
 
